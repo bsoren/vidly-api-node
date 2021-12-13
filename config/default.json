@@ -1,6 +1,6 @@
 {
   "jwtPrivateKey": "unsecureKey",
-  "db": "mongodb+srv://Arknoid42:Arknoid42%23@cluster0.eqj51.mongodb.net/vidly",
+  "db": "mongodb://vidlyuser:1234@cluster0-shard-00-00.eqj51.mongodb.net:27017,cluster0-shard-00-01.eqj51.mongodb.net:27017,cluster0-shard-00-02.eqj51.mongodb.net:27017/vidly",
   "port": "3900",
   "requiresAuth": false
 }
