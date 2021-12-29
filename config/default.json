@@ -1,6 +1,6 @@
 {
   "jwtPrivateKey": "unsecureKey",
-  "db": "mongodb://vidlyuser:1234@cluster0-shard-00-00.eqj51.mongodb.net:27017,cluster0-shard-00-01.eqj51.mongodb.net:27017,cluster0-shard-00-02.eqj51.mongodb.net:27017/vidly?ssl=true&replicaSet=atlas-3cxulh-shard-0&authSource=admin&retryWrites=true&w=majority",
+  "db": "mongodb://localhost/vidly_backend",
   "port": "3900",
-  "requiresAuth": false
+  "requiresAuth": true
 }
